@@ -50,13 +50,13 @@ Le site ProvetexSite est développé en utilisant les technologies suivantes :
 2.Accédez au répertoire du projet :
   ```bash
    cd mon-portfolio 
-
+```
 3.Installez les dépendances :
   ```bash
    npm install
-
+```
 4.Démarrez l'application :
   ```bash 
    npm start
-
+```
 5.Le portfolio Live : `https://achrafaitmk.vercel.app/`
