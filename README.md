@@ -49,7 +49,7 @@ Le site ProvetexSite est développé en utilisant les technologies suivantes :
 
 2.Accédez au répertoire du projet :
   ```bash
-   cd mon-portfolio 
+   cd provetex 
 ```
 3.Installez les dépendances :
   ```bash
