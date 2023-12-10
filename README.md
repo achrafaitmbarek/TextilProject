@@ -1,6 +1,6 @@
 # ProvetexSite
 
-Bienvenue sur le référentiel du projet ProvetexSite. Ce projet est dédié au développement d'un site web pour la marque de textile Provetex de la société XYZ.
+Bienvenue sur le référentiel du projet ProvetexSite. Ce projet est dédié au développement d'un site web pour la marque de textile Provetex de la société Provetex.
 
 ## À propos du Projet
 
@@ -40,12 +40,21 @@ Le site ProvetexSite est développé en utilisant les technologies suivantes :
 - [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
 - [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-## Comment Contribuer
-
-Nous encourageons les contributions de la communauté pour améliorer et faire évoluer le site ProvetexSite. Si vous souhaitez contribuer, suivez les étapes du guide de contribution dans le fichier CONTRIBUTING.md.
 
 ## Guide d'Installation
 
 1. Clonez le référentiel sur votre machine locale :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/ProvetexSite.git
+   git clone https://github.com/achrafaitmbarek/TextilProject.git
+
+2.Accédez au répertoire du projet :
+  ```bash
+   cd mon-portfolio 
+
+3.Installez les dépendances :
+  ```bash
+   npm install
+
+4.Démarrez l'application :
+  ```bash 
+    npm start
