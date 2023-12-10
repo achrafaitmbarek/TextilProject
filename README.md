@@ -59,4 +59,4 @@ Le site ProvetexSite est développé en utilisant les technologies suivantes :
   ```bash 
    npm start
 ```
-5.Le portfolio Live : `https://achrafaitmk.vercel.app/`
+5.Le portfolio Live : `https://provetex.netlify.app/`
